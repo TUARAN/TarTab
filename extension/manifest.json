@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "TarTab",
+  "version": "0.1",
+  "description": "你的每日AI资源与灵感启动页",
+  "chrome_url_overrides": { "newtab": "index.html" },
+  "icons": { "128": "assets/icon.png" },
+  "permissions": ["storage"]
+}
+
